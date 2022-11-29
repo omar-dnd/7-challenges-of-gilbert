@@ -1,0 +1,42 @@
+{
+  "name": "7-challenges-of-gilbert",
+  "title": "Gilbert's 7 Challenges",
+  "id": "7-challenges-of-gilbert",
+  "description": "<p>Героям в руки попадает зачарованная книга безумного волшебника Гилберта. По легенде, её страницы скрывают путь к месту, где спрятаны три кольца необычайной магической силы. Смогут ли герои пройти все испытания и заполучить один из ценных артефактов?</p><h2>Зависимости</h2><p><strong>Внимание!</strong> Для использования данного приключения необходимо установить модуль laaru-dnd5-hw <a href=\"https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295\">https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295</a> (доступен по подписке на бусти). Данный модуль будет полезен не только для этого приключения, но и для любого другого приключения, так как содержит все необходимые классы, заклинания, чудовищ и много другое.</p>",
+  "version": "1.0.0",
+  "packs": [],
+  "authors": [
+    {
+      "name": "Omar19",
+      "url": "https://github.com/Omar-19",
+      "email": "lesya.marinosyan@gmail.com"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "laaru-dnd5-hw",
+        "type": "module",
+        "url": "https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295",
+        "manifest": "https://boosty.to/laaru/posts/30ef2f20-5198-464d-9dc7-fd111b846295",
+        "compatibility": {
+          "verified": "3.4.0"
+        }
+      }
+    ]
+  },
+  "keywords": [],
+  "socket": false,
+  "url": "https://github.com/Omar-19/7-challenges-of-gilbert",
+  "manifest": "https://raw.githubusercontent.com/Omar-19/7-challenges-of-gilbert/main/world.json",
+  "download": "https://github.com/Omar-19/7-challenges-of-gilbert/archive/refs/heads/main.zip",
+  "background": "worlds/7-challenges-of-gilbert/dnd-background.webp",
+  "nextSession": "",
+  "system": "dnd5e",
+  "systemVersion": "2.0.3",
+  "coreVersion": "10.290",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
